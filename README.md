@@ -20,7 +20,7 @@ Juego de plataformas 2D con las siguientes características:
 
 # Resultado Final (GUI)
 
-![Menu](https://github.com/GonzaloSC95/Actividad3_JuedoDeadPool2D/blob/1cc53f3353add5d9dc9a17ab7cf0033956e4d38e/Menu.PNG)
+![Menu](https://github.com/GonzaloSC95/Actividad3_JuegoDeadPool2D/blob/4e665eed324a995e59ef3059a4288c3a1893e6bb/GUI/Menu.png)
 
 ![Game](https://github.com/GonzaloSC95/Actividad3_JuegoDeadPool2D/blob/b732d14a260d7c5e59a693b045316731165d0482/GUI/Game.png)
 
